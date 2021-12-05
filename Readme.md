@@ -10,3 +10,4 @@ CSS:
 1.added flex-wrap,text-shadow
 2.padding, background image
 3.added hover, justify-content 
+4. added background pic
