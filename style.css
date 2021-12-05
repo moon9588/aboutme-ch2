@@ -68,6 +68,8 @@ footer h2 {
   color: #d324ad;
   font-size: 30px;
   margin: 0;
+  border-right:10px solid rgb(20, 67, 220);
+
 }
 
 footer div {
@@ -169,6 +171,12 @@ section {
   background-color: var(--tertiary-color);  
 }
 
+.intro {
+  display:flex;
+  justify-content: space-evenly;
+}
+
+
 .checkbox-wrapper input[type="checkbox"], 
 .radio-wrapper input[type="radio"] {
   opacity: 0;
@@ -238,14 +246,78 @@ section {
 
 /* work */
 .About-Me {
-  width: 50%;
+  width: 100%;
   margin: 0 auto;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
+  border-right:10px solid rgb(20, 67, 220);
+
+}
+
+
+.flex-row {
+  margin: 10px;
+  padding-right: 15px;
+  padding-bottom: 200px;
+  width: 15%;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: right;
+  justify-self: right;
+  border-right:10px solid rgb(20, 67, 220);
+
+
+}
+
+.life {
+  margin: 10px;
+  padding-bottom: 10px;
+  width: 65%;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: right;
+  justify-self: right;
+}
+.innaya {
+  margin: 10px;
+  padding-bottom: 10px;
+  width: 65%;
+  
+  flex-wrap: wrap;
+  align-items: right;
+  justify-self: right;
+}
+.run {
+  background-image: url("/Users/mamona/Desktop/projects/aboutme-ch2/run2.jpg");
+  background-position: center;
+  display: block;
+  margin: 4px;
+  width: 100%;
+  padding-top: 200px;
+  border: 5px solid #e6004c;
+}
+
+.hari {
+  background-image: url("/Users/mamona/Desktop/projects/aboutme-ch2/");
+  background-position: center;
+  display: block;
+  margin: 4px;
+  width: 100%;
+  padding-top: 200px;
+  border: 5px solid #e6004c;
+}
+
+#intro {
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-content: stretch;
+  justify-content: space-around;
+  border-left:5px solid rgb(20, 67, 220);
 }
 
 .work {
+  align-items: right;
   margin: 20px;
   flex: 1;
   background: var(--secondary-color);
