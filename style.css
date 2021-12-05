@@ -60,6 +60,7 @@ footer {
   background: #c0e5f0;
   width: 100%;
   padding: 40px 35px;
+  
 }
 
 footer h2 {
@@ -233,3 +234,26 @@ section {
     content: "";
 }
 /* HERO STYLES END */
+
+
+/* work */
+.About-Me {
+  width: 50%;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.work {
+  margin: 20px;
+  flex: 1;
+  background: var(--secondary-color);
+  color: var(--primary-color);
+}
+
+.work img {
+  width: 50%;
+}
+
+/* Work end */
