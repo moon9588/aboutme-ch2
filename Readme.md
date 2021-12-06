@@ -15,8 +15,11 @@ CSS:
 
 
 Screen shots:
+https://github.com/moon9588/aboutme-ch2/blob/main/Screen%20Shot%202021-12-05%20at%2011.26.29%20PM.png
+
+https://github.com/moon9588/aboutme-ch2/blob/main/Screen%20Shot%202021-12-05%20at%2011.26.48%20PM.png
 
 
-Link deployed application is: https://github.com/moon9588/aboutme-ch2.git
+Link deployed application is: 
 
-Link to github respository: 
+Link to github respository: https://github.com/moon9588/aboutme-ch2.git
