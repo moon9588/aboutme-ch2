@@ -20,6 +20,6 @@ https://github.com/moon9588/aboutme-ch2/blob/main/Screen%20Shot%202021-12-05%20a
 https://github.com/moon9588/aboutme-ch2/blob/main/Screen%20Shot%202021-12-05%20at%2011.26.48%20PM.png
 
 
-Link deployed application is: 
+Link deployed application is: https://moon9588.github.io/aboutme-ch2/
 
 Link to github respository: https://github.com/moon9588/aboutme-ch2.git
