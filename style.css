@@ -62,8 +62,7 @@ header nav ul li a:hover {
 /* footer Starts here */
 
 footer {
-  background: #c0e5f0;
-  padding: 40px 35px;
+  padding: 28px 32px 10px;
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
@@ -75,7 +74,7 @@ footer {
 
 footer h2 {
   display: inline;
-  color: #d324ad;
+  color: hsla(332, 81%, 48%, 0.663);
   font-size: 30px;
   margin: 0;
   font-size: 30px;
@@ -257,6 +256,7 @@ section {
 .About-Me {
   width: 100%;
   margin: 0 auto;
+  padding-bottom: 200px;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
@@ -267,7 +267,6 @@ section {
 .flex-row {
   margin: 10px;
   padding-right: 15px;
-  padding-bottom: 200px;
   width: 15%;
   display: flex;
   flex-wrap: wrap;
@@ -355,3 +354,17 @@ section {
 
 
 
+#Contact-Me h2{
+  
+  margin: 10px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  width: 13%;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: right;
+  justify-self: right;
+  border-right:5px solid rgb(162, 179, 233);
+  columns: 3;
+
+}
