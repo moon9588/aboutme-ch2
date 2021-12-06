@@ -1,4 +1,5 @@
-Professional Portfolio
+Professional Portfolio:
+Our task for this week was to create a professonal portfolio website where employers in the future can vist get to konw a little bit more about us. our employers wanted to see tabs for about me, work experience, and how they can contact us. They also wanted to see the projects we have done so far and when they click on our picture of our project they want to be directed to the website. 
 
 HTML:
 1.Made  code from scratch 
@@ -12,3 +13,10 @@ CSS:
 3.added hover, justify-content 
 4.added background Image
 
+
+Screen shots:
+
+
+Link deployed application is: https://github.com/moon9588/aboutme-ch2.git
+
+Link to github respository: 
