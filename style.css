@@ -342,6 +342,17 @@ section {
 }
 
 
+.movie {
+  background-image: url("movie.jpg");
+  background-position: center;
+  display: block;
+  margin: 4px;
+  width: 100%;
+  padding-top: 200px;
+  border: 5px solid #ff81ab;;
+}
+
+
 #intro {
   flex-direction: row;
   flex-wrap: wrap;
